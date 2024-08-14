@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits, Partials } = require('discord.js');
 require('dotenv').config();
 
-const prefix = 'm!';
+const prefix = '.';
 
 const client = new Client({
     intents: [
