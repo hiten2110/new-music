@@ -29,13 +29,13 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/minebeach";
+      const supportServerLink = "https://discord.gg/better-mc";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
               name: 'Support Server',
-              iconURL: 'https://images-ext-1.discordapp.net/external/7I2GVU3LwPx99ogfUNY8UrmYxByIV6rbSrQ-cHtc9uI/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/847339790872870932/497c0dde1dd73a95fcd5959d93f1c725.png?format=webp&quality=lossless&width=204&height=204', 
-              url: 'https://discord.gg/minebeach'
+              iconURL: 'https://images-ext-1.discordapp.net/external/9GBMNSizX0J3buIPfr-EQBIfxXsdIWVjK1rfbw8VcFg/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/847339790872870932/497c0dde1dd73a95fcd5959d93f1c725.png?format=webp&quality=lossless&width=204&height=204', 
+              url: 'https://discord.gg/better-mc'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n`)
             .setImage('https://tenor.com/en-GB/view/cristiano-ronaldo-celebrate-oh-yeah-gif-11515686')
