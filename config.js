@@ -28,7 +28,7 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   musicardTheme:"themes16", //Goes from themes1 to themes19
-  activityName: "BetterMC Staff", // This is bot status Write Anything here 
+  activityName: "BetterMC", // This is bot status Write Anything here 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/better-mc",
   CheckmarkIcon: "https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif",
